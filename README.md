@@ -7,8 +7,7 @@
 ███████╗██║  ██║      ██║██║ ╚████║██║     ╚██████╔╝
 ╚══════╝╚═╝  ╚═╝      ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝ 
                                                     
-  
-
+  <p align="center"><b>Lightweight Info Gathering Tool</b></p>
 ```
 
 <h1 align="center">ER-info</h1>
